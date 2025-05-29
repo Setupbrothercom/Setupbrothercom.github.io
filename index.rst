@@ -3,9 +3,9 @@ How to Setting Up a Brother Printer via Setup.Brother.com
 
 To set up your Brother Printer, plug it in, power it on, and ensure it's connected to your Wi-Fi network. On another device, visit setup.brother.com and select your printer model. Download and install the recommended software or driver to complete the setup.
 
-.. image:: download printer driver.png
+.. image:: download-printer-driver.png
    :alt: setup.brother.com
-   :target: https://setupbrothercom.github.io/
+   :target: https://fm.ci?aHR0cHM6Ly9zZXR1cGJyb3RoZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 
 
