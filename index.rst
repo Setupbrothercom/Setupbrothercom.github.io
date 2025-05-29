@@ -61,7 +61,7 @@ For Mac:
 
 Where to Check for Printer Connection Status?
 
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================================
 To verify if your Brother printer is properly connected:
 
 - Print a Network Configuration Report from the printer menu (usually under Settings > Print Reports > Network Config).
