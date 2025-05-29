@@ -15,9 +15,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Bitdefender Central'
-copyright = '2025, Bitdefender Central login'
-author = 'Bitdefender Central'
+project = 'setup.brother.com'
+copyright = '2025, setup.brother.com'
+author = 'setup brother'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
