@@ -119,5 +119,5 @@ How to Confirm Printer Is Online?
 
 Useful Tip:
 -----------
-For the best experience, always use the latest drivers. Download them from `setup.brother.com <https://setupbrothercom.godaddysites.com/>`_ or `support.brother.com <https://support.brother.com>`_.
+For the best experience, always use the latest drivers. Download them from `setup.brother.com <https://setupbrothercom.godaddysites.com/>`_ or `support.brother.com <https://setupbrother.readthedocs.io/en/latest/>`_.
 
