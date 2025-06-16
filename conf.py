@@ -15,8 +15,8 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'setup.brother.com'
-copyright = '2025, setup.brother.com'
+project = 'setup brother printer'
+copyright = '2025, Brother printer'
 author = 'setup brother'
 
 # The full version, including alpha/beta/rc tags
@@ -25,10 +25,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Set Up Your VIZIO Smart TV – vizio.com/setup Guide"
+html_title = "How to Setting Up a Brother Printer via Setup.Brother.com"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "VIZIO TV Setup"
+html_short_title = "Brother Printer"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
